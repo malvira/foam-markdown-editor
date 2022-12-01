@@ -1,0 +1,6 @@
+[submodule "lute"]
+	path = lute
+	url = https://github.com/malvira/lute
+[submodule "vscode-markdown-editor"]
+	path = vscode-markdown-editor
+	url = https://github.com/malvira/vscode-markdown-editor
